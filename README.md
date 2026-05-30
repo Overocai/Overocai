@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Overocai 👋</h1>
 
 <p align="center">
-  I build <b>unofficial plugins for Equicord</b> — a Discord client mod.<br/>
+  20 y/o · I build <b>unofficial plugins for Equicord</b> — a Discord client mod.<br/>
   Mostly with <b>TypeScript</b>, sometimes with <b>React</b>.
 </p>
 
