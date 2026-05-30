@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/badge/Equicord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Equicord" />
 </p>
 
+<p align="center">
+  <img src="assets/header.gif" alt="header" width="480" />
+</p>
+
 ---
 
 ## 🧩 My Plugins
@@ -22,15 +26,6 @@
 - **[VoiceServerInfo](https://github.com/Overocai/VoiceServerInfo)** — monitors voice and screen-share server IPs in real time.
 
 > All built for **[Equicord](https://github.com/Equicord/Equicord)** / **[Vencord](https://github.com/Vendicated/Vencord)**.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Overocai&show_icons=true&theme=tokyonight&hide_border=true" alt="Overocai's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Overocai&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
 
 ---
 
