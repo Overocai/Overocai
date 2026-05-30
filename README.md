@@ -25,6 +25,7 @@
 - **[spotify-rich-presence-pp](https://github.com/Overocai/spotify-rich-presence-pp)** — a futuristic, fully customizable Spotify player for Discord with smooth animations, real-time waveform visualization, BPM & key detection and animated album covers.
 - **[autoLeaveBlacklistVoice-Plugin](https://github.com/Overocai/autoLeaveBlacklistVoice-Plugin)** — automatically leaves voice calls when a blacklisted user joins or is already present. Works in guild channels, DMs and Group DMs.
 - **[VoiceServerInfo](https://github.com/Overocai/VoiceServerInfo)** — monitors voice and screen-share server IPs in real time.
+- **[Stereo-Vencord-Plugin](https://github.com/Overocai/Stereo-Vencord-Plugin)** — enables stereo microphone transmission on Discord with live bitrate control and a quick-access button in the voice panel.
 
 > All built for **[Equicord](https://github.com/Equicord/Equicord)** / **[Vencord](https://github.com/Vendicated/Vencord)**.
 
