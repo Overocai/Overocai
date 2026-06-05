@@ -26,6 +26,7 @@
 - **[autoLeaveBlacklistVoice-Plugin](https://github.com/Overocai/autoLeaveBlacklistVoice-Plugin)** — automatically leaves voice calls when a blacklisted user joins or is already present. Works in guild channels, DMs and Group DMs.
 - **[VoiceServerInfo](https://github.com/Overocai/VoiceServerInfo)** — monitors voice and screen-share server IPs in real time.
 - **[stereo-plugin](https://github.com/Overocai/stereo-plugin)** — enables stereo microphone transmission on Discord with live bitrate control and a quick-access button in the voice panel.
+- **[fake-moderator](https://github.com/Overocai/fake-moderator)** — adds local-only moderation entries (ban/kick/timeout/warn + mute/deafen) to the user context menu, styled exactly like Discord's real ones. Purely cosmetic — nothing is ever sent to Discord.
 
 > All built for **[Equicord](https://github.com/Equicord/Equicord)** / **[Vencord](https://github.com/Vendicated/Vencord)**.
 
